@@ -1,0 +1,7 @@
+git clone vs fork
+fork
+to makeremote copy of the github repository
+its gors to your gihub repository
+clone
+to make local copy of github repository
+it only works if the code is public
